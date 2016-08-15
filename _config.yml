@@ -1,0 +1,14 @@
+layout_spectrum: 0.8129968759603798
+typography_spectrum: 0.39382169279269874
+color:
+  brandStrength: 0.6916632601059973
+  lightness: 0.5648874614853412
+  saturation: 0.9833691290114075
+  rhythmicContrast: 0.27900153677910566
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: greenprice
