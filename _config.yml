@@ -6,9 +6,9 @@ color:
   saturation: 0.9833691290114075
   rhythmicContrast: 0.27900153677910566
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#1892D7'
+    - '#FFFFFF'
+    - '#0F0F0F'
+    - '#A8CAE9'
+    - '#6E4F3D'
 name: greenprice
