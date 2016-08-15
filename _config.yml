@@ -1,4 +1,3 @@
-layout_spectrum: 0.8129968759603798
 typography_spectrum: 0.39382169279269874
 color:
   brandStrength: 0.6916632601059973
@@ -6,9 +5,11 @@ color:
   saturation: 0.9833691290114075
   rhythmicContrast: 0.27900153677910566
   brandColors:
-    - '#1892D7'
-    - '#FFFFFF'
-    - '#0F0F0F'
-    - '#A8CAE9'
-    - '#6E4F3D'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+layout_spectrum: 0.8129968759603798
 name: greenprice
+title: enviro prices
